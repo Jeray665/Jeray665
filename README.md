@@ -31,7 +31,6 @@ intereses:  [tecnología, informática, videojuegos]
 
 | | Etapa | Detalle |
 |:--|:--|:--|
-| ✔ **Completado** | Educación Secundaria (ESO) | 2026 |
 | 🔴 **En curso** | **SMR** · Sistemas Microinformáticos y Redes | DIGITECH · Redes, sistemas operativos, Microsoft 365, servicios en red y seguridad. Desde septiembre de 2026. |
 | ◌ **Próxima meta** | **DAW** · Desarrollo de Aplicaciones Web | Evolucionar la base técnica de sistemas hacia la ingeniería de software y la creación de soluciones web completas. |
 
@@ -46,28 +45,28 @@ intereses:  [tecnología, informática, videojuegos]
 
 <table>
   <tr>
-    <th align="left">Sistemas</th>
-    <th align="left">Redes</th>
-    <th align="left">Web y hardware</th>
+    <th align="center">Sistemas</th>
+    <th align="center">Redes</th>
+    <th align="center">Web y hardware</th>
   </tr>
   <tr valign="top">
-    <td>
-      <img src="https://img.shields.io/badge/Linux_·_Ubuntu-171313?style=flat-square&logo=ubuntu&logoColor=F4F1EE" alt="Linux · Ubuntu" /> <sub>aprendiendo</sub><br />
-      <img src="https://img.shields.io/badge/Windows_Server-171313?style=flat-square" alt="Windows Server" /> <sub>aprendiendo</sub><br />
-      <img src="https://img.shields.io/badge/Proxmox_·_Docker-171313?style=flat-square&logo=docker&logoColor=F4F1EE" alt="Proxmox · Docker" /> <sub>aprendiendo</sub><br />
-      <img src="https://img.shields.io/badge/Bash-171313?style=flat-square&logo=gnubash&logoColor=F4F1EE" alt="Bash" /> <sub>aprendiendo</sub>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Linux_·_Ubuntu-Aprendiendo-6A6360?style=flat-square&labelColor=171313&logo=ubuntu&logoColor=F4F1EE" alt="Linux · Ubuntu: Aprendiendo" /><br />
+      <img src="https://img.shields.io/badge/Windows_Server-Aprendiendo-6A6360?style=flat-square&labelColor=171313" alt="Windows Server: Aprendiendo" /><br />
+      <img src="https://img.shields.io/badge/Proxmox_·_Docker-Aprendiendo-6A6360?style=flat-square&labelColor=171313&logo=docker&logoColor=F4F1EE" alt="Proxmox · Docker: Aprendiendo" /><br />
+      <img src="https://img.shields.io/badge/Bash-Aprendiendo-6A6360?style=flat-square&labelColor=171313&logo=gnubash&logoColor=F4F1EE" alt="Bash: Aprendiendo" />
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/TCP%2FIP_·_Subnetting-171313?style=flat-square" alt="TCP/IP · Subnetting" /> <sub>aprendiendo</sub><br />
-      <img src="https://img.shields.io/badge/VLAN_·_Cisco_IOS-171313?style=flat-square&logo=cisco&logoColor=F4F1EE" alt="VLAN · Cisco IOS" /> <sub>aprendiendo</sub><br />
-      <img src="https://img.shields.io/badge/DHCP_·_DNS-171313?style=flat-square" alt="DHCP · DNS" /> <sub>aprendiendo</sub><br />
-      <img src="https://img.shields.io/badge/Packet_Tracer-171313?style=flat-square&logo=cisco&logoColor=F4F1EE" alt="Packet Tracer" /> <sub>aprendiendo</sub>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TCP%2FIP_·_Subnetting-Aprendiendo-6A6360?style=flat-square&labelColor=171313" alt="TCP/IP · Subnetting: Aprendiendo" /><br />
+      <img src="https://img.shields.io/badge/VLAN_·_Cisco_IOS-Aprendiendo-6A6360?style=flat-square&labelColor=171313&logo=cisco&logoColor=F4F1EE" alt="VLAN · Cisco IOS: Aprendiendo" /><br />
+      <img src="https://img.shields.io/badge/DHCP_·_DNS-Aprendiendo-6A6360?style=flat-square&labelColor=171313" alt="DHCP · DNS: Aprendiendo" /><br />
+      <img src="https://img.shields.io/badge/Packet_Tracer-Aprendiendo-6A6360?style=flat-square&labelColor=171313&logo=cisco&logoColor=F4F1EE" alt="Packet Tracer: Aprendiendo" />
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML_·_CSS-171313?style=flat-square&logo=html5&logoColor=F4F1EE" alt="HTML · CSS" /> <sub>básico ●○○</sub><br />
-      <img src="https://img.shields.io/badge/JavaScript-171313?style=flat-square&logo=javascript&logoColor=F4F1EE" alt="JavaScript" /> <sub>básico ●○○</sub><br />
-      <img src="https://img.shields.io/badge/Lua-171313?style=flat-square&logo=lua&logoColor=F4F1EE" alt="Lua" /> <sub>básico ●○○</sub><br />
-      <img src="https://img.shields.io/badge/Montaje_y_diagnóstico-171313?style=flat-square" alt="Montaje y diagnóstico" /> <sub>medio ●●○</sub>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML_·_CSS-Básico-8E1016?style=flat-square&labelColor=171313&logo=html5&logoColor=F4F1EE" alt="HTML · CSS: Básico" /><br />
+      <img src="https://img.shields.io/badge/JavaScript-Básico-8E1016?style=flat-square&labelColor=171313&logo=javascript&logoColor=F4F1EE" alt="JavaScript: Básico" /><br />
+      <img src="https://img.shields.io/badge/Lua-Básico-8E1016?style=flat-square&labelColor=171313&logo=lua&logoColor=F4F1EE" alt="Lua: Básico" /><br />
+      <img src="https://img.shields.io/badge/Montaje_y_diagnóstico-Medio-C8141E?style=flat-square&labelColor=171313" alt="Montaje y diagnóstico: Medio" />
     </td>
   </tr>
 </table>
